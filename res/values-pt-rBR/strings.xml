@@ -696,7 +696,7 @@
     <string name="member_permissions">"Permissões para Membros"</string>
     <string name="edit">"EDITAR"</string>
     <string name="start_clan_war">"Começar uma Guerra de Clãs"</string>
-    <string name="join_clan_war">"Entrar em Guerra de Clãs"</string>
+    <string name="join_clan_war">"Entrar em uma Guerra de Clãs"</string>
     <string name="none">"Nenhum"</string>
     <string name="INVALID_TOKEN">"Token Inválido!"</string>
     <string name="banned_until">"Banido até "</string>
